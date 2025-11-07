@@ -1,0 +1,10 @@
+service: "twi_asr_service:svc"
+labels:
+  owner: "teckedd-serlabs"
+  stage: "production"
+python:
+  requirements: |
+    transformers==4.35.0
+    librosa==0.10.0
+    torch==2.0.0
+    numpy==1.24.3
