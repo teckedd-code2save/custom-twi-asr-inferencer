@@ -1,24 +1,6 @@
-# Standalone Inference Server
+# 🎙️ Twi (Akan) Speech Recognition Inference Server
 
-## Solution: BentoML (Simplest)
-
-### Project Structure
-
-```
-inference-server/
-├── bentofile.yaml
-├── twi_asr_service.py
-├── requirements.txt
-└── README.md
-```
-
-### Step 1: Install
-
-```bas# 🎙️ Twi (Akan) Speech Recognition Inference Server
-
-*A standalone, production-ready inference server bringing the power of Whisper to the Twi language.*
-
-![Hero Image Concept: A vibrant illustration showing audio waves transforming into text, connecting technology with culture]
+![Hero Image](./hero_image.png)
 
 ---
 
